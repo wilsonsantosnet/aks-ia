@@ -39,7 +39,9 @@ Este projeto é uma aplicação Flask que consulta informações de um cluster K
 Para iniciar a API Flask, execute o seguinte comando:
 ```sh
 python k8s.py
+```
 
 Para rodar a analise, execute o seguinte comando:
 ```sh
 python .\run_analysis_report.py
+```
